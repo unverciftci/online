@@ -13,3 +13,5 @@ https://www.cut-the-knot.org/manifesto/index.shtml
 https://academo.org/maths/
 
 https://www.illustrativemathematics.org/
+
+https://github.com/benweet/stackedit
