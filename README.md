@@ -19,3 +19,5 @@ https://github.com/benweet/stackedit
 https://www.math.hmc.edu/funfacts/
 
 https://cindyjs.org/gallery/main/
+
+https://github.com/enjalot/algovis
