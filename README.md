@@ -25,3 +25,7 @@ https://github.com/enjalot/algovis
 https://probmods.org/
 
 https://explorabl.es/
+
+https://www.jezzamon.com/fourier/index.html
+
+https://www.dev-mind.blog/
